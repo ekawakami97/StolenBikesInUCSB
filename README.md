@@ -1,7 +1,7 @@
 # Bikes Stolen in UCSB (Campus)
 
 ## Abstract
-This project is a exploratory analysis of bikes stolen on the UCSB campus. We use visualizations to get an idea of geographically, which bike locations on campus are the most vulnerable for bicycles. We used R and R Studio to create this project. 
+Bikes being reported stolen at the University of California, Santa Barbara has been an ongoing issue at the school. In this data visualization project, we map out which parts of the campus are the most vulnerable for bicycles, in an attempt to make students aware and hopefully more careful about where they park their bikes.  The programming language R was used to create this project. 
 
 ## Contributors
 + Eri Kawakami
